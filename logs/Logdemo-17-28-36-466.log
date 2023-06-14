@@ -1,0 +1,15 @@
+17:15:42 [main] INFO  rcvdemo.LoggingDemoFirst - Click Successfull
+17:15:42 [main] ERROR rcvdemo.LoggingDemoFirst - DB Connection failed
+17:15:42 [main] INFO  rcvdemo.LoggingDemoFirst - Click Successfull
+17:15:42 [main] ERROR rcvdemo.LoggingDemoFirst - DB Connection failed
+17:22:39 [main] INFO  rcvdemo.LoggingDemoFirst - Click Successfull
+17:22:39 [main] ERROR rcvdemo.LoggingDemoFirst - DB Connection failed
+17:22:39 [main] INFO  rcvdemo.LoggingDemoFirst - Click Successfull
+17:22:39 [main] ERROR rcvdemo.LoggingDemoFirst - DB Connection failed
+17:22:39 [main] FATAL rcvdemo.LoggingDemoFirst - DB Connection failed
+17:26:20 [main] FATAL rcvdemo.LoggingDemoFirst - DB Connection failed
+17:27:31 [main] INFO  rcvdemo.LoggingDemoFirst - Click Successfull
+17:27:31 [main] ERROR rcvdemo.LoggingDemoFirst - DB Connection failed
+17:27:31 [main] INFO  rcvdemo.LoggingDemoFirst - Click Successfull
+17:27:31 [main] ERROR rcvdemo.LoggingDemoFirst - DB Connection failed
+17:28:36 [main] INFO  rcvdemo.LoggingDemoFirst - Click Successfull

@@ -1,0 +1,4 @@
+17:59:33 [main] INFO  rcvdemo.LoggingDemoFirst - Click Successfull
+17:59:33 [main] ERROR rcvdemo.LoggingDemoFirst - DB Connection failed
+17:59:33 [main] INFO  rcvdemo.LoggingDemoFirst - Click Successfull
+17:59:33 [main] ERROR rcvdemo.LoggingDemoFirst - DB Connection failed

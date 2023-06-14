@@ -1,0 +1,21 @@
+16:31:29.333 [main] INFO  rcvdemo.LoggingDemoFirst - Click Successfull
+16:31:29.337 [main] ERROR rcvdemo.LoggingDemoFirst - DB Connection failed
+16:31:29.338 [main] FATAL rcvdemo.LoggingDemoFirst - This is fatal
+16:32:27.414 [main] INFO  rcvdemo.LoggingDemoFirst - Click Successfull
+16:32:27.421 [main] ERROR rcvdemo.LoggingDemoFirst - DB Connection failed
+16:32:27.422 [main] FATAL rcvdemo.LoggingDemoFirst - This is fatal
+16:33:20.316 [main] INFO  rcvdemo.LoggingDemoFirst - Click Successfull
+16:33:20.320 [main] ERROR rcvdemo.LoggingDemoFirst - DB Connection failed
+16:33:20.320 [main] FATAL rcvdemo.LoggingDemoFirst - This is fatal
+16:35:10.771 [main] INFO  rcvdemo.LoggingDemoFirst - Click Successfull
+16:35:10.780 [main] ERROR rcvdemo.LoggingDemoFirst - DB Connection failed
+16:35:10.785 [main] INFO  rcvdemo.LoggingDemoFirst - Click Successfull
+16:35:10.785 [main] ERROR rcvdemo.LoggingDemoFirst - DB Connection failed
+16:37:18.277 [main] INFO  rcvdemo.LoggingDemoFirst - Click Successfull
+16:37:18.283 [main] ERROR rcvdemo.LoggingDemoFirst - DB Connection failed
+16:37:18.286 [main] INFO  rcvdemo.LoggingDemoFirst - Click Successfull
+16:37:18.286 [main] ERROR rcvdemo.LoggingDemoFirst - DB Connection failed
+16:38:30 [main] INFO  rcvdemo.LoggingDemoFirst - Click Successfull
+16:38:30 [main] ERROR rcvdemo.LoggingDemoFirst - DB Connection failed
+16:38:30 [main] INFO  rcvdemo.LoggingDemoFirst - Click Successfull
+16:38:30 [main] ERROR rcvdemo.LoggingDemoFirst - DB Connection failed
